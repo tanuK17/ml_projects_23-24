@@ -11,5 +11,7 @@ Some of these projects include:
 - web scraping with REST API
 - dataframe methods
 - SQL projects
+
+- The most comprehensive project I worked on was a spam detection model that my group and I trained using spam data from a UC Irvine repository and using Naive-Bayes for supervised and K-Means Clustering for unsupervised training. 
   
 </body>
