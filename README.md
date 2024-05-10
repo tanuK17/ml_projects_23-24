@@ -12,14 +12,9 @@ Some of these projects include:
 - dataframe methods
 - SQL projects
 
-<ul>
-  <li>The most comprehensive project I worked on was a spam detection model that my group and I trained using spam data from a UC Irvine repository and using Naive-Bayes for supervised and K-Means Clustering for unsupervised training.
-  </li>
-    <ul>
-      <li>Check it out here: [Spam Detection Model](TK_Spam_Detection_Model.ipynb)</li>
-    </ul>
+<h4> The most comprehensive project I worked on was a spam detection model that my group and I trained using spam data from a UC Irvine repository and using Naive-Bayes for supervised and K-Means Clustering for unsupervised training.</h4>
 
-</ul>
+- Check it out here: [Spam Detection Model](TK_Spam_Detection_Model.ipynb)</li>
 
   
 </body>
