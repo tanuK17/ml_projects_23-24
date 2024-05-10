@@ -1,4 +1,4 @@
-# tanush_i310D
+# ml_projects_23-24
 
 <h2>My Machine Learning Projects from my first year at The University of Texas at Austin as a human-centered data science major. </h2>
 
